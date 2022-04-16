@@ -1,9 +1,4 @@
-a>img {
-    height: 32px;
-    width: 32px;
-    border-radius: 50%;
-    border: 1px solid blueviolet;
-}
+
 
 .cards-container {}
 
@@ -17,7 +12,13 @@ a>img {
 
 .photo-wrapper {}
 
-.photo-profile {}
+img.photo-profile {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 2px solid blueviolet;
+
+}
 
 .user-name {}
 
@@ -25,7 +26,9 @@ a>img {
 
 .adress-profile {}
 
-.icon-map {}
+.icon-map {
+    
+}
 
 .uppercase {}
 
