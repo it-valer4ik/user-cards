@@ -24,7 +24,7 @@
     /* width: calc(var(--ph-size)*2.5); */
     width: 100%;
     vertical-align: top;
-  
+
     font-size: 0.8em;
     border: 1px solid var(--main-col);
     text-align: center;
@@ -94,9 +94,9 @@ img.photo-profile {
 }
 
 
-.btn-right:hover {
-    background-color: ;
-    color: ;
+button:hover {
+    background-color: black;
+    color: wheat;
 }
 
 .bth-right {
