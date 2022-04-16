@@ -1,44 +1,55 @@
-.cards-container {
+a>img {
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+    border: 1px solid blueviolet;
 }
-.title-conteiner {
-}
-.card-wrapper {
-}
-.bg-header {
-}
-.card-content {
-}
-.photo-wrapper {
-}
-.photo-profile {
-}
-.user-name {
-}
-.capitalize {
-}
-.adress-profile {
-}
-.icon-map {
-}
-.uppercase {
-}
-.btn-container {
-}
-.bth-left {
-}
-.bth-right {
-}
-.description-profile {
-}
-.social-footer {
-}
+
+.cards-container {}
+
+.title-conteiner {}
+
+.card-wrapper {}
+
+.bg-header {}
+
+.card-content {}
+
+.photo-wrapper {}
+
+.photo-profile {}
+
+.user-name {}
+
+.capitalize {}
+
+.adress-profile {}
+
+.icon-map {}
+
+.uppercase {}
+
+.btn-container {}
+
+.bth-left {}
+
+.bth-right {}
+
+.description-profile {}
+
+.social-footer {}
+
 .list-social {
+    display: block;
+    background-color: blueviolet
 }
+
 .link-social {
+    display: inline-block;
 }
-.icon-fb {
-}
-.icon-google {
-}
-.icon-twitter {
-}
+
+.icon-fb {}
+
+.icon-google {}
+
+.icon-twitter {}
