@@ -97,12 +97,6 @@ img.photo-profile {
     box-shadow: 0 0 3px;
 }
 
-
-button:hover {
-    background-color: black;
-    color: wheat;
-}
-
 .bth-right {
     border: none;
     padding: 7px;
@@ -110,6 +104,16 @@ button:hover {
     color: var(--wh-col);
     border-radius: 3px;
     box-shadow: 0 0 3px;
+}
+
+button:hover {
+    background-color: black;
+    color: wheat;
+}
+
+.bth-left,
+.btt-right {
+    width: 90px;
 }
 
 .description-profile {
